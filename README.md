@@ -1,4 +1,4 @@
-## 🧑‍💻 About Me  
+
 
 Hi, I’m **Anshul Yadav** 👋  
 🚀 **Frontend Engineer | 🤖 AI & LLM Enthusiast**
