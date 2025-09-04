@@ -62,9 +62,9 @@ Real-time inventory updates, user reviews, and mobile-first design.
 ## 📫 Connect with Me
 
 - 💼 [Portfolio](#)
-- 📧 Email: anshul@example.com
+- 📧 Email: anshulyadav1791.com
 - 💬 LinkedIn: [Anshul Yadav](#)
-- 🐦 Twitter: [@anshul_dev](#)
+
 
 ---
 
