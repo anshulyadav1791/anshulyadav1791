@@ -35,6 +35,10 @@ Welcome to my GitHub! I love building modern, scalable web applications using po
 A full-featured e-commerce platform with user login, product search, cart, and admin dashboard.  
 🔗 [Live Demo](#) • 📂 [Repo](#)
 
+**Tech:** HTML,Tailwent, JS  
+A full-featured e-commerce platform with user login, product search, cart, and admin dashboard.  
+🔗 [Live Demo](#) • 📂 [Repo](#)
+
 
 ---
 
