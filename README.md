@@ -30,7 +30,7 @@ Welcome to my GitHub! I love building modern, scalable web applications using po
 
 ## 🛒 Featured Projects
 
-### 1. 🛍️ **ShopSphere**
+###  🛍️ **Shop**
 **Tech:** React, Flask, MongoDB  
 A full-featured e-commerce platform with user login, product search, cart, and admin dashboard.  
 🔗 [Live Demo](#) • 📂 [Repo](#)
