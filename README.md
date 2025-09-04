@@ -30,8 +30,8 @@ Welcome to my GitHub! I love building modern, scalable web applications using po
 
 ## 🛒 Featured Projects
 
-###  🛍️ **Shop**
-**Tech:** React, Flask, MongoDB  
+###  🛍️ **Mi Shop**
+**Tech:** HTML, Tailwent, JS
 A full-featured e-commerce platform with user login, product search, cart, and admin dashboard.  
 🔗 [Live Demo](#) • 📂 [Repo](#)
 
