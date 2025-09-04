@@ -35,20 +35,6 @@ Welcome to my GitHub! I love building modern, scalable web applications using po
 A full-featured e-commerce platform with user login, product search, cart, and admin dashboard.  
 🔗 [Live Demo](#) • 📂 [Repo](#)
 
-### 2. 🎨 **TailKart**
-**Tech:** React, TailwindCSS  
-Minimalist UI with dynamic filtering, Stripe payments, and responsive design.  
-🔗 [Live Demo](#) • 📂 [Repo](#)
-
-### 3. 🐍 **FlaskMart**
-**Tech:** Flask, SQLite  
-Server-side rendered e-commerce site with secure login and order tracking.  
-🔗 [Live Demo](#) • 📂 [Repo](#)
-
-### 4. ⚛️ **ReactCommerce**
-**Tech:** React, Redux, Firebase  
-Real-time inventory updates, user reviews, and mobile-first design.  
-🔗 [Live Demo](#) • 📂 [Repo](#)
 
 ---
 
