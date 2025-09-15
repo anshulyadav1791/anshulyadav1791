@@ -51,6 +51,6 @@ A full-featured e-commerce platform with user login, product search, cart, and a
 - 💬 LinkedIn: [Anshul Yadav](#)
 
 
-----
+---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House 
