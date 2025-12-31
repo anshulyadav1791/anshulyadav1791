@@ -47,5 +47,27 @@ A full-featured e-commerce platform with user login, product search, cart, and a
 - 💬 LinkedIn: [Anshul Yadav](#)
 
 ---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
